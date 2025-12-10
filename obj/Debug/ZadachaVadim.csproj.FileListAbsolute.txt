@@ -1,0 +1,14 @@
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.csproj.AssemblyReference.cache
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.csproj.SuggestedBindingRedirects.cache
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.Form1.resources
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.Forms.RepairForm.resources
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.Properties.Resources.resources
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.csproj.GenerateResource.cache
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.csproj.CoreCompileInputs.cache
+D:\projects\ZadachaVadim\bin\Debug\ZadachaVadim.exe.config
+D:\projects\ZadachaVadim\bin\Debug\ZadachaVadim.exe
+D:\projects\ZadachaVadim\bin\Debug\ZadachaVadim.pdb
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.exe
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.pdb
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.Forms.MechanicsForm.resources
+D:\projects\ZadachaVadim\obj\Debug\ZadachaVadim.ReportForm.resources
